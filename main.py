@@ -15,16 +15,16 @@ from pymongo import MongoClient
 from motor.motor_asyncio import AsyncIOMotorClient as MongoCli
 
 
-API_ID = os.environ.get("API_ID","") 
-API_HASH = os.environ.get("API_HASH","") 
-BOT_TOKEN = os.environ.get("BOT_TOKEN","") 
+API_ID = os.environ.get("API_ID","29218073") 
+API_HASH = os.environ.get("API_HASH","77399dc03d15476c89b024333ea53c24") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN","6391204673:AAHoAj8SfsWgslBgbaLAizyCCRHcVjp_dKM") 
 MONGO_URL = os.environ.get("MONGO_URL","mongodb+srv://Musicbot58:93529352@cluster0.n6wscri.mongodb.net/?retryWrites=true&w=majority")
-BOT_USERNAME = os.environ.get("Khushi_chat_bot") 
-UPDATE_CHNL = os.environ.get("https://t.me/BRANDRD_BOT")
-OWNER_ID = os.environ.get("6258877205")
-OWNER_USERNAME = os.environ.get("BRANDEDKING82")
-SUPPORT_GRP = os.environ.get("https://t.me/BRANDED_WORLD")
-BOT_NAME = os.environ.get("≛⃝𝐌𝐈𝐒𝐒 🇰𝐡𝐮𝐬𝐡𝐢 𓆩 𝐃𝐑𝐀𝐌𝐀 🇶𝗨𝗘𝗘𝗡๛🖤")
+BOT_USERNAME = os.environ.get("PARI_CHAT_BOT") 
+UPDATE_CHNL = os.environ.get("https://t.me/+kQdmyirlnGFkNTc1")
+OWNER_ID = os.environ.get("6569183877")
+OWNER_USERNAME = os.environ.get("prime_ministerrrr")
+SUPPORT_GRP = os.environ.get("https://t.me/+kQdmyirlnGFkNTc1")
+BOT_NAME = os.environ.get("◄⏤͟͟͞🥀⃝⃪🦋⃪꯭🇵𝐀𝐑𝐈❥•𝅃꯭᳚🌸𝆺𝅥⃝𝄟⸙‌ٖٖٖٖٖٖٜٖٖ•๋๋๋๋๋๋๋๋๋๋๋๋๋•๋๋๋๋๋๋๋๋๋๋๋๋๋")
 START_IMG1 = os.environ.get("https://telegra.ph/file/b27a946b7dd4a89dcb205.jpg")
 START_IMG2 = os.environ.get("https://graph.org/file/70c214a03ad0b53d239e0.jpg")
 START_IMG3 = os.environ.get("https://telegra.ph/file/3fd4025a4f9864b7819f0.jpg")
